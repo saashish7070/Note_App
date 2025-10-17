@@ -25,7 +25,7 @@ Built using **Flutter**, **Provider**, and **Shared Preferences**, it offers a s
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/<your-username>/note_app.git
+git clone https://github.com/saashish7070/note_app.git
 cd note_app
 flutter pub get
 flutter run
