@@ -1,16 +1,31 @@
-# free_note
+# 📝 Note App
 
-A new Flutter project.
+A simple and elegant **Flutter Note App** that lets users create, edit, delete, and pin notes.  
+Built using **Flutter**, **Provider**, and **Shared Preferences**, it offers a smooth offline experience with a clean and responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add, edit, and delete notes  
+- Pin important notes to the top  
+- Local data storage (offline) using Shared Preferences  
+- State management with Provider  
+- Light & Dark mode support  
+- Responsive and minimal UI  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧩 Tech Stack
+**Frontend:** Flutter, Dart  
+**State Management:** Provider  
+**Local Storage:** Shared Preferences  
+**Tools:** Android Studio, Git  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Setup
+```bash
+git clone https://github.com/<your-username>/note_app.git
+cd note_app
+flutter pub get
+flutter run
